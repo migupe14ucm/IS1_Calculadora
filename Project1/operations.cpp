@@ -29,10 +29,18 @@ double execute(tDatos datos){
         sol = mul(getNum1(datos), getNum2(datos));
     }
     else if (parse == "Div") {
-        sol = div(getNum1(datos), getNum2(datos));
+        if (getNum2 == 0) {
+            mostrarError("No se divide entre infinito");
+        }
+        else {
+            sol = div(getNum1(datos), getNum2(datos));
+        }
     }
     else if (parse == "Exp") {
         sol = exp(getNum1(datos), getNum2(datos));
+    }
+    else if (parse == "Help") {
+        help();
     }
     else {
         mostrarError("Comando no identificado");

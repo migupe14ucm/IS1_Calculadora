@@ -5,9 +5,16 @@ int main() {
     tDatos operacion;
     mensajeInicio();
     operacion = lectura();
-    while (getOperator(operacion) != "Exit") {
-        execute(operacion);
+    std :: string op = getOperator(operacion);
+    while (op != "Exit") {
+        if (op == "Help") {
+            execute(operacion);
+        }
+        else {
+            mostrarSolucion(execute(operacion));
+        }
         operacion = lectura();
+        op = getOperator(operacion);
     }
     return 0;
 }
