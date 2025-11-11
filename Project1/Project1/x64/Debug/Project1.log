@@ -1,13 +1,7 @@
-﻿  inout.cpp
+﻿  operations.cpp
+C:\Users\perez\Documents\GitHub\IS1_Calculadora\Project1\operations.cpp(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
 C:\Users\perez\Documents\GitHub\IS1_Calculadora\Project1\inout.h(5,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tDatos' cuando no hay ninguna variable declarada
-  (compilando archivo de origen "inout.cpp")
+  (compilando archivo de origen "operations.cpp")
   
-C:\Users\perez\Documents\GitHub\IS1_Calculadora\Project1\inout.cpp(6,16): error C2011: 'tDatos': nueva definición del tipo 'struct'
-      C:\Users\perez\Documents\GitHub\IS1_Calculadora\Project1\inout.h(5,16):
-      vea la declaración de 'tDatos'
-  
-C:\Users\perez\Documents\GitHub\IS1_Calculadora\Project1\inout.cpp(11,8): error C2027: uso del tipo 'tDatos' sin definir
-      C:\Users\perez\Documents\GitHub\IS1_Calculadora\Project1\inout.h(5,16):
-      vea la declaración de 'tDatos'
-  
-C:\Users\perez\Documents\GitHub\IS1_Calculadora\Project1\inout.cpp(12,9): error C2079: 'datos' utiliza struct 'tDatos' sin definir
+C:\Users\perez\Documents\GitHub\IS1_Calculadora\Project1\operations.cpp(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Project1.vcxproj -> C:\Users\perez\Documents\GitHub\IS1_Calculadora\Project1\x64\Debug\Project1.exe

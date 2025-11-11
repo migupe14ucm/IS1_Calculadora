@@ -128,9 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="inout.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="operations.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="inout.h" />
+    <ClInclude Include="operations.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

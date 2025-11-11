@@ -9,6 +9,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5010361-FFF0-49C0-9F4B-998B2171C8A0}|Project1.vcxproj|C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\inout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5010361-FFF0-49C0-9F4B-998B2171C8A0}|Project1.vcxproj|solutionrelative:inout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5010361-FFF0-49C0-9F4B-998B2171C8A0}|Project1.vcxproj|C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\operations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5010361-FFF0-49C0-9F4B-998B2171C8A0}|Project1.vcxproj|solutionrelative:operations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5010361-FFF0-49C0-9F4B-998B2171C8A0}|Project1.vcxproj|C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5010361-FFF0-49C0-9F4B-998B2171C8A0}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5010361-FFF0-49C0-9F4B-998B2171C8A0}|Project1.vcxproj|C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\operations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5010361-FFF0-49C0-9F4B-998B2171C8A0}|Project1.vcxproj|solutionrelative:operations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "operations.cpp",
+              "DocumentMoniker": "C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\operations.cpp",
+              "RelativeDocumentMoniker": "operations.cpp",
+              "ToolTip": "C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\operations.cpp",
+              "RelativeToolTip": "operations.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T16:29:53.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "operations.h",
+              "DocumentMoniker": "C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\operations.h",
+              "RelativeDocumentMoniker": "operations.h",
+              "ToolTip": "C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\operations.h",
+              "RelativeToolTip": "operations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-11T16:28:21.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T16:25:01.884Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,7 +92,7 @@
               "RelativeDocumentMoniker": "inout.cpp",
               "ToolTip": "C:\\Users\\perez\\Documents\\GitHub\\IS1_Calculadora\\Project1\\inout.cpp",
               "RelativeToolTip": "inout.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-11T15:43:08.329Z",
               "EditorCaption": ""
