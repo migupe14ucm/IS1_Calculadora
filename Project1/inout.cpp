@@ -6,7 +6,8 @@
 
 tDatos lectura() {
 	tDatos datos;
-	std::cin >> datos.operador >> datos.num1 >> datos.num2;
+	std::cin >> datos.operador;
+	if(datos.operador == "Exit" || datos.operador == "Help" ) {std::cin >> datos.num1 >> datos.num2;}
 	return datos;
 }
 
