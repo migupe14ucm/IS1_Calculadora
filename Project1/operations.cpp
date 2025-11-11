@@ -29,7 +29,7 @@ double execute(tDatos datos){
         sol = mul(getNum1(datos), getNum2(datos));
     }
     else if (parse == "Div") {
-        if (getNum2 == 0) {
+        if (getNum2(datos) == 0) {
             mostrarError("No se divide entre infinito");
         }
         else {
